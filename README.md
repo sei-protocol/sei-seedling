@@ -1,4 +1,4 @@
-# sei-seedling
+# seedling
 
 seedling is a fork of Notional's Tinyseed of Binary Holding's Tenderseed, which is a fork of Polychain's Tenderseed
 
